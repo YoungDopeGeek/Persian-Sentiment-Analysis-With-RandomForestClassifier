@@ -69,16 +69,10 @@ Trained model will be saved as a pickle file and can be reused in a web backend 
 
 ---
 
-## 📊 Future Improvements
-- Add more sentiment classes (e.g., angry, surprise, fear) using fine-tuning
-- Use deep learning models (e.g., ParsBERT)
-- Create REST API with Flask or Django
-- Add a web interface for real-time sentiment detection
 
----
 
 ## 🌟 About Me
-I’m an aspiring **machine learning developer** looking for internship opportunities. This project is part of my personal learning journey and portfolio. I’m passionate about building real-world applications using AI/NLP.
+I’m an aspiring **machine learning developer** . This project is part of my personal learning journey and portfolio. I’m passionate about building real-world applications using AI/NLP.
 
 ---
 
@@ -160,16 +154,11 @@ python main.py
 
 ---
 
-## 📊 بهبودهای آینده
-- افزودن کلاس‌های احساسی بیشتر (مانند: عصبانیت، شگفتی، ترس)
-- استفاده از مدل‌های یادگیری عمیق مانند ParsBERT
-- ایجاد API با Flask یا Django
-- طراحی رابط کاربری وب برای تحلیل احساسات در لحظه
 
 ---
 
 ## 🌟 درباره من
-من یک **توسعه‌دهنده علاقه‌مند به یادگیری ماشین** هستم که به دنبال فرصت‌های کارآموزی هستم. این پروژه بخشی از مسیر یادگیری و رزومه شخصی من است. علاقه‌مند به ساخت برنامه‌های کاربردی واقعی با استفاده از AI/NLP هستم.
+من یک **توسعه‌دهنده علاقه‌مند به یادگیری ماشین** هستم . این پروژه بخشی از مسیر یادگیری و رزومه شخصی من است. علاقه‌مند به ساخت برنامه‌های کاربردی واقعی با استفاده از AI/NLP هستم.
 
 ---
 
